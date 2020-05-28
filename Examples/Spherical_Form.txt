@@ -1,0 +1,21 @@
+hello world                                                                                                                                     
+enter the affine matrix 3X3 order                                                                                                               
+0                                                                                                                                               
+8                                                                                                                                               
+9                                                                                                                                               
+7                                                                                                                                               
+6                                                                                                                                               
+2                                                                                                                                               
+2                                                                                                                                               
+7                                                                                                                                               
+9                                                                                                                                               
+press 1 for cartisian 2 for cylindrical and 3 for spherical                                                                                     
+2                                                                                                                                               
+Enter the coordinates in r,theta(in radians) and z                                                                                              
+7                                                                                                                                               
+0                                                                                                                                               
+96                                                                                                                                              
+NEW coordinates are in cylindrical form are                                                                                                     
+896.982                                                                                                                                         
+0.272021                                                                                                                                        
+878     
