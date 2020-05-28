@@ -1,21 +1,21 @@
 hello world                                                                                                                                     
 enter the affine matrix 3X3 order                                                                                                               
-0                                                                                                                                               
-8                                                                                                                                               
+5                                                                                                                                               
 9                                                                                                                                               
-7                                                                                                                                               
 6                                                                                                                                               
-2                                                                                                                                               
+3                                                                                                                                               
 2                                                                                                                                               
 7                                                                                                                                               
+5                                                                                                                                               
 9                                                                                                                                               
+3                                                                                                                                               
 press 1 for cartisian 2 for cylindrical and 3 for spherical                                                                                     
-2                                                                                                                                               
-Enter the coordinates in r,theta(in radians) and z                                                                                              
-7                                                                                                                                               
-0                                                                                                                                               
-96                                                                                                                                              
-NEW coordinates are in cylindrical form are                                                                                                     
-896.982                                                                                                                                         
-0.272021                                                                                                                                        
-878     
+3                                                                                                                                               
+Enter the coordinates in r,theta(in radians) and phi(in radians)                                                                                
+8                                                                                                                                               
+0.5                                                                                                                                             
+3.2                                                                                                                                             
+NEW coordinates in spherical form are                                                                                                           
+82.481                                                                                                                                          
+0.836461                                                                                                                                        
+-1.22414  
